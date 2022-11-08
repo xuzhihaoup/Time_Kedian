@@ -1,3 +1,5 @@
+%作者：徐志豪-科电俱乐部-苏州城市学院
+%禁止商用2022.11.8
 function varargout = TimeKeDian(varargin)
 % TIMEKEDIAN MATLAB code for TimeKeDian.fig
 %      TIMEKEDIAN, by itself, creates a new TIMEKEDIAN or raises the existing
